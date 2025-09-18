@@ -1,17 +1,26 @@
 //LOCALHOST
 ### Get all Howard
 
-Get http://localhost:3000/Howard
+Get http://localhost:3000
 
 ### Get all Fabian
 
 Get http://localhost:3000/Fabian
 
+### Get all index
+
+Get http://localhost:3000/index
+
+
 //PRODUCTION
 ### Get all Howard
 
-Get https://cse341-wf7o.onrender.com/Howard
+Get https://cse341-wf7o.onrender.com
 
 ### Get all Fabian
 
 Get https://cse341-wf7o.onrender.com/Fabian
+
+### Get all index
+
+Get https://cse341-wf7o.onrender.com/index
