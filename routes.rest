@@ -1,0 +1,17 @@
+//LOCALHOST
+### Get all Emily
+
+Get https://cse341-wf7o.onrender.com/Emily
+
+### Get all Hannah
+
+Get https://cse341-wf7o.onrender.com/Hannah
+
+//PRODUCTION
+### Get all Emily
+
+Get https://cse341-wf7o.onrender.com/Emily
+
+### Get all Hannah
+
+Get https://cse341-wf7o.onrender.com/Hannah
