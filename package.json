@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
+    "dev_start": "nodemon server.js"
   },
   "keywords": [
     "web",
@@ -20,6 +20,6 @@
     "mongodb": "^6.19.0"
   },
   "devDependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.1.10"
   }
 }
