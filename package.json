@@ -4,8 +4,7 @@
   "description": "CSE 341 Web Services Development",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev_start": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "keywords": [
     "web",
@@ -20,6 +19,7 @@
     "mongodb": "^6.19.0"
   },
   "devDependencies": {
+    "nodeman": "^1.1.2",
     "nodemon": "^3.1.10"
   }
 }
