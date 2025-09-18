@@ -11,12 +11,12 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'index.html'));
 });
 
-app.get('/Emily', (req, res) => {
-    res.send('Emily Birch');
+app.get('/Howard', (req, res) => {
+    res.send('Howard Newman');
 });
 
-app.get('/hannah', (req, res) => {
-    res.send('Hannah Birch');
+app.get('/Fabian', (req, res) => {
+    res.send('Fabian Newman');
 });
 
 // Start the server
