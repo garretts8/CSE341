@@ -1,11 +1,11 @@
 //LOCALHOST
 ### Get all Howard
 
-Get https://cse341-wf7o.onrender.com/Howard
+Get http://localhost:3000/Howard
 
 ### Get all Fabian
 
-Get https://cse341-wf7o.onrender.com/Fabian
+Get http://localhost:3000/Fabian
 
 //PRODUCTION
 ### Get all Howard
