@@ -3,7 +3,7 @@ const path = require('path');
 var app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use('/', require('./routes/index.js'));
+app.use('/', require('./routes'));
 
 // Serve static files from the current directory
 app.use(express.static(path.join(__dirname)));
