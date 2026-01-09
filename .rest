@@ -1,0 +1,12 @@
+### LocalHost request
+GET http://localhost:3000
+
+### LocalHost request
+GET http://localhost:3000/hannah
+
+
+### Render request
+GET https://cse341-winter2026-5ayg.onrender.com/
+
+### Render request
+GET https://cse341-winter2026-5ayg.onrender.com/hannah
