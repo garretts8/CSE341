@@ -2,8 +2,10 @@
 GET http://localhost:3000
 
 ### LocalHost request
-GET http://localhost:3000/hannah
+GET http://localhost:3000/spencer
 
+### LocalHost request
+GET http://localhost:3000/dade
 
 ### Render request
 GET https://cse341-winter2026-5ayg.onrender.com/
